@@ -27,6 +27,7 @@ Train the neural network using the training data from the first step. This invol
 This project at first is in need of the software of python. The packages have been imported and the algorithm created which is done by installing the new packages from online in python3 version 3.12.
 Apart from that the total project is online compiled or ran and done by the software provided by the Jupyter Notebook.
 #### Run the program: 
+Installing all packages using in the import part of the code.
 Running the digit-recognition.ipynb in the Jupyter Notebook windows.
 Adding or changing the images files name "number_a.png", "number_x.png", "number_y.png", "number_z.png" to make a prediction. Note: if you adding more image files, you may want to adjust the OpenCV part begin with the comment '# Test our drawing numbers by hand on laptop'
 ### Datasets 
