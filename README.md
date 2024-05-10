@@ -26,6 +26,9 @@ Train the neural network using the training data from the first step. This invol
 ### Programming language
 This project at first is in need of the software of python. The packages have been imported and the algorithm created which is done by installing the new packages from online in python3 version 3.12.
 Apart from that the total project is online compiled or ran and done by the software provided by the Jupyter Notebook.
+#### Run the program: 
+Running the digit-recognition.ipynb in the Jupyter Notebook windows.
+Adding or changing the images files name "number_a.png", "number_x.png", "number_y.png", "number_z.png" to make a prediction. Note: if you adding more image files, you may want to adjust the OpenCV part begin with the comment '# Test our drawing numbers by hand on laptop'
 ### Datasets 
 This project uses the MNIST dataset. This is a dataset of 60,000 28x28 grayscale images of the 10 digits, along with a test set of 10,000 images.
 We have done some research on the internet about the algorithm, model building processes, and neural network applications in handwritten digit recognition. We will reference discrete instructions about Jupyter, neuron network, etc. to complete our code without using any existing code.
